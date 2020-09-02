@@ -1,7 +1,7 @@
 package guru.springframework.msscbrewery.services.v2;
 
 import guru.springframework.msscbrewery.web.model.v2.BeerDtoV2;
-import guru.springframework.msscbrewery.web.model.v2.BeerStyleEnum;
+import guru.springframework.msscbrewery.web.model.BeerStyleEnum;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
